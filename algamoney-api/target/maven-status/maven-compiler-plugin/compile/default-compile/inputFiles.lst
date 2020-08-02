@@ -1,0 +1,5 @@
+/home/carlos/workspace_alga2020/algamoney-api/src/main/java/com/algaworks/algamoney/api/resource/CategoriaResource.java
+/home/carlos/workspace_alga2020/algamoney-api/src/main/java/com/algaworks/algamoney/api/model/Categoria.java
+/home/carlos/workspace_alga2020/algamoney-api/src/main/java/com/algaworks/algamoney/api/exceptionhandler/AlgaMoneyExceptionHandler.java
+/home/carlos/workspace_alga2020/algamoney-api/src/main/java/com/algaworks/algamoney/api/AlgamoneyApiApplication.java
+/home/carlos/workspace_alga2020/algamoney-api/src/main/java/com/algaworks/algamoney/api/repository/CategoriaRepository.java

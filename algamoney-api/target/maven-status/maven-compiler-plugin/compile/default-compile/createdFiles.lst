@@ -1,0 +1,6 @@
+com/algaworks/algamoney/api/resource/CategoriaResource.class
+com/algaworks/algamoney/api/exceptionhandler/AlgaMoneyExceptionHandler.class
+com/algaworks/algamoney/api/exceptionhandler/AlgaMoneyExceptionHandler$Erro.class
+com/algaworks/algamoney/api/repository/CategoriaRepository.class
+com/algaworks/algamoney/api/AlgamoneyApiApplication.class
+com/algaworks/algamoney/api/model/Categoria.class
